@@ -1,3 +1,4 @@
+#c program to get average of two numbers
 #include <stdio.h>
 
 int main()
